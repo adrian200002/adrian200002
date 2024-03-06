@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate fullstack developer from Poland</h3>
+<h3 align="center">A passionate Fullstack Developer from Poland</h3>
 
 🌱 I’m currently learning Redux<br>🏋️ I love every type of sport
 
