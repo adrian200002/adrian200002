@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate Fullstack Developer from Poland</h3>
 
-🚀 Always seeking new challenges and opportunities for growth.
-⚽️ Outside of programming, I'm also interested in football.
+🚀 Always seeking new challenges and opportunities for growth.<br>
+⚽️ Outside of programming, I'm also interested in football.<br>
 🌱 I’m currently learning Next.js
 
 # 💻 Tech Stack:
